@@ -1,0 +1,9 @@
+com/ecommerce/model/Product.class
+com/ecommerce/repository/ProductRepository.class
+com/ecommerce/service/ProductService.class
+com/ecommerce/security/SecurityConfig.class
+com/ecommerce/controller/ProductController.class
+com/ecommerce/dto/ProductDTO.class
+com/ecommerce/config/AppConfig.class
+com/ecommerce/ECommerceApplication.class
+com/ecommerce/model/Category.class
